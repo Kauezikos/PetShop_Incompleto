@@ -1,4 +1,7 @@
 # PetShop_Incompleto
+
+Os arquivos acima podem ser executados no ambiente de desenvolvimento Java como NetBeans.
+
 Sistema que simularia um sistema de petshop 
 
 Desenvolvido em Java, sql e um pouco de HTML
